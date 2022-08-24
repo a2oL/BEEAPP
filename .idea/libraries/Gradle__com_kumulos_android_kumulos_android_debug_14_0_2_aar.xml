@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kumulos.android:kumulos-android-debug:14.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c642b984bcba9c65544e32c9d360f1c/jetified-kumulos-android-debug-14.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c642b984bcba9c65544e32c9d360f1c/jetified-kumulos-android-debug-14.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c642b984bcba9c65544e32c9d360f1c/jetified-kumulos-android-debug-14.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kumulos.android/kumulos-android-debug/14.0.2/1ef4b36511cb402646f43efc9fc7831b25162daa/kumulos-android-debug-14.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
